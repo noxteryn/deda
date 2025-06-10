@@ -3,7 +3,7 @@ title: The Cult of El-Yetch
 subtitle: Existentially Challenged
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2022-2023
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
