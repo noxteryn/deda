@@ -3,26 +3,26 @@ baseurl: /deda/
 
 # Site settings
 title: Department of Extradimensional Affairs
-email: your-email@domain.com
+email: foi-team@cabinetoffice.gov.uk
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Feryal Clark
+  pic: 4
+  position: Secretary of State for Extradimensional Affairs
   social:
     - title: twitter
-      url: #
+      url: http://twitter.com/FeryalClark
     - title: facebook
       url: #
-    - title: stack-overflow
+    - title: linkedin
       url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: Elizabeth Lawrence
+  pic: 1
+  position: Senior Administrator
   social:
     - title: twitter
       url: #
@@ -31,34 +31,94 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Richard Danvers
+  pic: 2
+  position: Director of Operations
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
-    - title: google-plus
+    - title: linkedin
+      url: #
+
+- name: Nita Pavani
+  pic: 3
+  position: Head of Public Relations and Cultural Sensitivity
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Sean Anderson
+  pic: 5
+  position: Cabinet Advisor and Liaison
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Archibald Brooke-Stodgeley
+  pic: 6
+  position: Head of Research and Senior Archivist
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Victor Casin
+  pic: 7
+  position: Head of Control and Pacification
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Adam Hesketh
+  pic: 8
+  position: Head of Identification and Investigations
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Alison Arkin
+  pic: 9
+  position: Office of Skepticism
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://members.parliament.uk/government/department
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://members.parliament.uk/government/department
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 1 Victoria St, 
+  - line: London SW1E 5ND, UK
 
 # Build settings
 markdown: kramdown
