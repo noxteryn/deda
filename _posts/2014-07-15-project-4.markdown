@@ -1,6 +1,6 @@
 ---
 title: Differently Morphous
-subtitle: The Case of the Fluidic Killer
+subtitle: The Shgshthx Revelation
 layout: default
 modal-id: 4
 date: 2014-07-15
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: 2017-2018
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: The Shgshthx made themslves known to the general public, triggering the new era of magic.
 
 ---
