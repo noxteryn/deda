@@ -13,12 +13,6 @@ people:
   pic: 4
   position: Secretary of State for Extradimensional Affairs
   social:
-    - title: twitter
-      url: http://twitter.com/FeryalClark
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
 
 - name: Elizabeth Lawrence
   pic: 1
@@ -29,78 +23,36 @@ people:
   pic: 2
   position: Director of Operations
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
 
 - name: Nita Pavani
   pic: 3
   position: Head of Public Relations and Cultural Sensitivity
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
 
 - name: Sean Anderson
   pic: 5
   position: Cabinet Advisor and Liaison
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
 
 - name: Archibald Brooke-Stodgeley
   pic: 6
   position: Head of Infusion Research and Senior Archivist
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
 
 - name: Victor Casin
   pic: 7
   position: Head of Control and Pacification
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
 
 - name: Adam Hesketh
   pic: 8
   position: Head of Identification and Investigations
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
 
 - name: Alison Arkin
   pic: 9
   position: Office of Skepticism
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
