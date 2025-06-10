@@ -3,7 +3,7 @@ title: The Fluidic Killer
 subtitle: Differently Morphous
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2017-2018
 img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
