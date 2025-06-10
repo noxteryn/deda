@@ -1,6 +1,6 @@
 ---
 title: Existentially Challenged
-subtitle: The Cult of El-Yetch
+subtitle: The Extradimensional Appropriation Act
 layout: default
 modal-id: 5
 date: 2014-07-14
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: 2022-2023
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: In a misguided attempt to protect the cultural heritage of extradimensional beings, the British government passed a hastily drafted law that was subsequently repealed.
 
 ---
