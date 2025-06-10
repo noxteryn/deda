@@ -1,6 +1,6 @@
 ---
-title: The Czho Mythos
-subtitle: Website Design
+title: The Chzo Mythos
+subtitle: Trilby's Notes
 layout: default
 modal-id: 1
 date: 1994-1997
