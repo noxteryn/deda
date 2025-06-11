@@ -10,6 +10,6 @@ alt: image-alt
 project-date: 2017-2018
 client: Start Bootstrap
 category: Web Development
-description: The Shgshthx made themslves known to the general public, triggering the new era of magic.
+description: The Shgshthx made themslves known to the general public, triggering a new era of magic.
 
 ---
