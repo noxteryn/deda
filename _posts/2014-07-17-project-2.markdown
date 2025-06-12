@@ -8,7 +8,7 @@ img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
 project-date: 1994-1997
-client: Start Bootstrap
+client: http://www.fullyramblomatic.com/notes/
 category: Web Development
 description: An experimental trial, as part of the now defunct Special Talents Project.
 
