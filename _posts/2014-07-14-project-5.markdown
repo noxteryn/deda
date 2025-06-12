@@ -8,7 +8,7 @@ img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt
 project-date: 2022-2023
-client: Start Bootstrap
+client: https://www.goodreads.com/book/show/59788263-existentially-challenged
 category: Web Development
 description: In a misguided attempt to protect the cultural heritage of extradimensional beings, the British government passed a hastily drafted law that was subsequently repealed.
 
