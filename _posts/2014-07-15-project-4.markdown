@@ -8,7 +8,7 @@ img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
 project-date: 2017-2018
-client: Start Bootstrap
+client: https://www.goodreads.com/book/show/39027664-differently-morphous
 category: Web Development
 description: The Shgshthx made themslves known to the general public, triggering a new era of magic.
 
