@@ -8,7 +8,7 @@ img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: 1993
-client: Start Bootstrap
+client: http://www.fullyramblomatic.com/5days/
 category: Web Development
 description: Very little is known about this strange event, involving one John DeFoe.
 
